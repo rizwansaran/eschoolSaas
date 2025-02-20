@@ -11,7 +11,7 @@ It is a Saas version of the main E school Product
 Clone the project
 
 ```bash
-  https://github.com/wrteam-sagar/eschool-saas.git
+  https://github.com/rizwansaran/eschoolSaas.git
 ```
 
 Go to the project directory
